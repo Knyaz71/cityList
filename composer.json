@@ -1,0 +1,22 @@
+{
+	"name": "knyaz71/geo",
+	"description": "База стран, регионов, районов и городов",
+	"keywords": [
+		"geo",
+		"country",
+		"city"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Donskikh Dmitry",
+			"email": "dmit_don@mail.ru"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"Knyaz71\\Geo\\": "/"
+		}
+	}
+}
